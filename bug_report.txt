@@ -1,0 +1,14 @@
+Bug report
+id: 226
+Severite: Trivial
+Environment" iPhone 13 Pro iOS 16.1.1 Safari
+Titel: The block "Risk Warning" on Header doesn't minimize or maximaze when you tap on the arrow button
+       on license SBC arrow button doesn't work on any languadge, on license ASIC works only on EN and CH
+ Steps:
+        1. Navigate to capital.com;
+        2. Select ASIC/SCB license;
+        3. Select language e.g. DE;
+        4. Tap on the button on block with risk warn;
+Expected Result: The block with risk warn curls up
+Actual Result: The block with risk warn doesn't minimize
+Bug started: Ekarerina Martinik
