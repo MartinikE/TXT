@@ -1,0 +1,5 @@
+favorite movie: The Hateful Eight,
+favorite series: Desperate Housewives,
+favorite food: love delicious food,
+favorite season: summer,
+country you would like to visit: China.
